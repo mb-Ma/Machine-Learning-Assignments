@@ -1,0 +1,7 @@
+#Experimental data set
+This experiment involves three MNIST datasets, which are stored in the data folder;
+The data used in pytorch neural network model and random forest model can be downloaded directly without any other operation;
+mnist. Npz is used to test and train the decision tree model. 
+To run the model, you need to put the data compression package 
+and code file of the decision tree model into the same file directory and decompress them to run the corresponding .py file;
+Two CSV files are used to test and train the SVM model. The data set of the model is processed in the same way as the data set of the decision tree model.
